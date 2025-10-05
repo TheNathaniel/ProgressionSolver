@@ -1,0 +1,88 @@
+Key Options:
+
+    To change keys of the entire chord progression,
+    enter any of the valid keys below:
+
+     A,  B,  C,  D,  E,  F,  G
+    bA, bB, bC, bD, bE, bF, bG
+    sA, sB, sC, sD, sE, sF, sG
+
+    b - Flat
+    s - Sharp
+________________________________________________________________
+
+To begin writing a chord progression, enter chords one
+at a time or enter them separated by spaces.
+
+    I6/4<Enter>
+    V<Enter>
+    I<Enter>
+
+    OR
+
+    I6/4 V I<Enter>
+
+Above are two ways to enter the same progression. Any chords
+that are entered will be added onto the current progression shown.
+The (2) key can be used to replace chords in your progression.
+The (3) key will delete the last chord and (4) will clear the
+entire progression. Press (5) to solve the progression and print
+the output.
+
+________________________________________________________________
+
+Root Position Figured Bass Options:
+
+    Chords are written in figured bass notation (using Roman
+    Numerals). Below are chords for both major and minor
+    keys.
+
+        Root Position Figured Bass Options:
+        Major - I, ii,  III, IV, V, vi, viio
+        Minor - i, iio, iii, iv, V, VI, VII
+                        III+,    v
+
+________________________________________________________________
+
+Inversion:
+
+    If the chord has an inversion, then the inversion is put
+    right after the Roman Numeral (Ex: V7, I6/4, iv6).
+
+    1st Inversion - __6
+    2nd Inversion - __6/4
+
+    7th Chord Inversion:
+    No Inversion  - __7
+    1st Inversion - __6/5
+    2nd Inversion - __4/3
+    3rd Inversion - __2
+
+________________________________________________________________
+
+Secondary Dominant Chords:
+
+    Secondary Dominant chords are labeled by notating where
+    the V chord is being borrowed from after the V chord.
+    The chord after the V chord is notated in root position
+    (no inversion), but the V chord can have an inversion.
+
+    Note: You cannot have a secondary dominant of a diminished
+          or augmented key.
+
+    Notation - V/__
+
+    Examples: V/IV, V6/5/V, V6/ii, V2/vi
+
+________________________________________________________________
+
+Extra Chromatic Chords:
+
+    Below are a few special chords that fall outside the regular
+    chords.
+
+    Augmented Sixths:
+        French -  Fr+6
+        Italian - It+6
+        German -  Ger+6
+    Neapolitan Sixth: N6
